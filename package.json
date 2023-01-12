@@ -1,6 +1,6 @@
 {
-  "name": "tilelive-tmstyle",
-  "version": "0.8.0",
+  "name": "@wikimedia/tilelive-tmstyle",
+  "version": "0.8.1",
   "description": "A tilelive.js source for tmstyle:// URIs",
   "contributors": [
     "TM2 Contributors",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mojodna/tilelive-tmstyle.git"
+    "url": "https://github.com/wikimedia/tilelive-tmstyle.git"
   },
   "dependencies": {
     "js-yaml": "^3.8.4",
@@ -18,6 +18,6 @@
   },
   "peerDependencies": {
     "@mapbox/tilelive": "*",
-    "@mapbox/tilelive-vector": ">=2.0.0"
+    "@wikimedia/tilelive-vector": ">=2.0.0"
   }
 }
